@@ -10,7 +10,7 @@ const Footer = () => (
   <footer className="footer container glass">
     <p>&copy; 2026 CYBERLOG. Build with <span>Wonkwang Mastery</span>.</p>
     <div className="footer-links">
-      <a href="https://github.com/thdwognso7/thdwogns.git" target="_blank" rel="noreferrer">GitHub</a>
+      <a href="https://github.com/thdwognso7/-.git" target="_blank" rel="noreferrer">GitHub</a>
       <a href="#">X (Twitter)</a>
       <a href="#">Discord</a>
     </div>
@@ -36,7 +36,7 @@ const Footer = () => (
 
 function App() {
   return (
-    <Router basename="/thdwogns">
+    <Router basename="/-">
       <Navbar />
       <main className="container">
         <Routes>
